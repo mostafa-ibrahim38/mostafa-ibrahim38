@@ -133,20 +133,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafa-ibrahim38&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-ibrahim38&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mostafa-ibrahim38&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7)
-
-</div>
-
----
-
 ## 🏆 Achievements & Highlights
 
 ```
